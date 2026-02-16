@@ -6,8 +6,6 @@ I also develop in **C#** with **Unity**, creating interactive systems and games 
 Alongside development, I have a strong foundation in **cybersecurity and penetration testing**, helping me write more secure and resilient applications.  
 My projects range from **inventory and sales prediction systems** to software integrating **machine learning** and **real-time security features**.
 
-I focus on **clean, efficient, and maintainable code** — turning ideas into reliable, well-structured solutions that blend creativity, security, and practical use.
-
 ---
 
 ### 🧰 Tech Stack
@@ -20,7 +18,8 @@ I focus on **clean, efficient, and maintainable code** — turning ideas into re
 ### 🧠 Cybersecurity & Continuous Learning
 - Practicing on **TryHackMe** and **Hack The Box**  
 - Engaged in real-world testing on **HackerOne** and **BugCrowd**  
-- Learning Salesforce development through **Trailhead** (Apex & SOQL)  
+- Learning Salesforce development through **Trailhead** (Apex & SOQL)
+- Learning Shopify liquid, Shopify App Development and Integration
 
 ---
 
